@@ -3,25 +3,19 @@ import { Gerente } from "./Funcionarios/Gerente.js";
 import { Diretor } from "./Funcionarios/Diretor.js";
 import { SistemaAutenticação } from "./SistemaAutenticação.js";
 
-const diretor = new Diretor ('Rodrigo', 10000, 12345678900);
-diretor.cadastrarSenha(123456)
+const diretor = new Diretor("Rodrigo", 10000, 12345678900);
+diretor.cadastrarSenha(123456);
 
-const gerente = new Gerente ('Ricardo', 5000, 12345678901);
-gerente.cadastrarSenha(123)
+const gerente = new Gerente("Ricardo", 5000, 12345678901);
+gerente.cadastrarSenha(123);
 
-const cliente = new Cliente ('Lais', 789456123, 456)
+const cliente = new Cliente("Lais", 789456123, 456);
 
-const gerenteEstaLogado = SistemaAutenticação.login(gerente, '123')
-const diretorEstaLogado = SistemaAutenticação.login(diretor, '123456')
-const clienteEstaLogado = SistemaAutenticação.login(cliente, '456')
+const gerenteEstaLogado = SistemaAutenticação.login(gerente, "123");
+const diretorEstaLogado = SistemaAutenticação.login(diretor, "123456");
+const clienteEstaLogado = SistemaAutenticação.login(cliente, "456");
 
-
-console.log(gerenteEstaLogado, diretorEstaLogado, clienteEstaLogado)
-
-
-
-
-
+console.log(gerenteEstaLogado, diretorEstaLogado, clienteEstaLogado);
 
 // import { ContaCorrente } from "./Conta/ContaCorrente.js";
 // import { ContaPoupanca } from "./Conta/ContaPoupanca.js";
