@@ -29,7 +29,7 @@ export class NegociacoesView {
                     }).join('')}
                 </tbody>
             </table>
-        `
+        `;
     }
 
     update(model: Negociacoes): void {
