@@ -1,7 +1,7 @@
 # Desktop
 
 <h1 align="center">
-    <img alt="Preview Desktop" title="Preview Desktop" src=".github/transferencia.png" />
+    <img alt="Preview Desktop" title="Preview Desktop" src=".github/transferencias.png" />
 </h1>
 
 <br>
