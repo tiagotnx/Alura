@@ -1,27 +1,39 @@
-# Bytebank
+# Desktop
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
+<h1 align="center">
+    <img alt="Preview Desktop" title="Preview Desktop" src=".github/transferencia.png" />
+</h1>
 
-## Development server
+<br>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<h1 align="center">
+    <img alt="Preview Mobile" title="Preview Mobile" src=".github/nova-transferencia.png" />
+</h1>
 
-## Code scaffolding
+<br>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## 🧪 Technologies
 
-## Build
+This project was developed using the following technologies:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- [Angular](https://angular.io/)
+- [JSON Server](https://github.com/typicode/json-server)
 
-## Running unit tests
+## 🚀 Getting started
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Run this command to install and run the dependencies.
 
-## Running end-to-end tests
+```bash
+npm install
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+ng serve
 
-## Further help
+json-server --watch db.json      // Inside the dados folder
+```
+## 📝 License
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+Made with 💜 by [TiagoTNX](https://github.com/TiagoTNX) 👋
