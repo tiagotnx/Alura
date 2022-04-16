@@ -5,5 +5,5 @@ export enum DiaDaSemana {
     QUARTA = 3,
     QUINTA = 4,
     SEXTA = 5,
-    SABADO = 6
+    SABADO = 6,
 }
