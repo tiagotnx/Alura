@@ -1,0 +1,124 @@
+{
+  "pensamentos": [
+    {
+      "id": 3,
+      "conteudo": "Angular é o melhor'",
+      "autoria": "Dev Alura",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 4,
+      "conteudo": "A vida é uma jornada incrível",
+      "autoria": "Tiagão",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 5,
+      "conteudo": "Programar é como resolver um quebra-cabeça",
+      "autoria": "Dev Alura",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "Não tenha medo de tentar algo novo",
+      "autoria": "Desconhecido",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 7,
+      "conteudo": "Aprender é um processo contínuo",
+      "autoria": "Desconhecido",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 8,
+      "conteudo": "A persistência leva ao sucesso",
+      "autoria": "Desconhecido",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 9,
+      "conteudo": "Seja a mudança que você deseja ver no mundo",
+      "autoria": "Mahatma Gandhi",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 10,
+      "conteudo": "O conhecimento é a chave para a evolução",
+      "autoria": "Desconhecido",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 11,
+      "conteudo": "O futuro pertence àqueles que acreditam na beleza de seus sonhos",
+      "autoria": "Eleanor Roosevelt",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 12,
+      "conteudo": "A paciência é uma virtude",
+      "autoria": "Desconhecido",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 13,
+      "conteudo": "Tudo é possível quando se tem determinação",
+      "autoria": "Desconhecido",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 14,
+      "conteudo": "O sucesso é construído passo a passo",
+      "autoria": "Desconhecido",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 15,
+      "conteudo": "Acredite em si mesmo e alcance o impossível",
+      "autoria": "Desconhecido",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 13,
+      "conteudo": "O fracasso é apenas uma oportunidade para recomeçar de forma mais inteligente",
+      "autoria": "Henry Ford",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 17,
+      "conteudo": "Não limite seus desafios, desafie seus limites",
+      "autoria": "Desconhecido",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 18,
+      "conteudo": "A imaginação é mais importante que o conhecimento",
+      "autoria": "Albert Einstein",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 19,
+      "conteudo": "Seja gentil, pois cada pessoa está travando uma batalha",
+      "autoria": "Desconhecido",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 20,
+      "conteudo": "A vida é curta, aproveite cada momento",
+      "autoria": "Desconhecido",
+      "modelo": "modelo2"
+    },
+    {
+      "conteudo": "Aprendndo java",
+      "autoria": "Tiagão",
+      "modelo": "modelo3",
+      "id": 21
+    },
+    {
+      "conteudo": "teste",
+      "autoria": "teste",
+      "modelo": "modelo1",
+      "id": 22
+    }
+  ]
+}
